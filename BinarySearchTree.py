@@ -83,4 +83,5 @@ print(bst.search(6))
 
 print("最小值：",bst.find_min())
 print("最大值：",bst.find_max())
+
 print("節點數量：", bst.get_node_count())
